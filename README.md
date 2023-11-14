@@ -8,23 +8,13 @@ This project aims to facilitate and organizing **classes into packages**, develo
 
 **Concepts**
 
-`Package` is a way to **organize and group** related classes, interfaces, and other components together. 
-Packages provide a mechanism for managing the namespace and access control of Java classes and help **avoid naming conflicts** between classes with the same name.
+| Concept   |      Resources      |
+|----------|:-------------:|
+|Concept of a package |  [Concept of a package ](https://github.com/nourabyte/high-level-language/blob/main/resources/what-is-a-package.md) |
+|              |    ([What is a package](https://www.youtube.com/watch?v=Bua6LQO2vQ8))   |
 
 
-```java
-package com.example.myapp;
 
-import com.example.utilities.StringUtils;
-
-public class Main {
-    public static void main(String[] args) {
-        String text = "Hello, World!";
-        String reversedText = StringUtils.reverse(text);
-        System.out.println(reversedText);
-    }
-}
-```
 
 
 
