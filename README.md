@@ -3,8 +3,8 @@
 
 **Objectives**
 
-This project aims to facilitate and organizing **classes into package**, developing distinct classes for entities and system functionality, and incorporating methods to
-**execute operations** on student objects. Additionally, it offers a chance to enhance skills in **error handling** and **fundamental calculations**.
+This project learn to facilitate and organizing **classes into package**, developing distinct classes for entities and system functionality, and incorporating methods to
+**execute operations** on student objects.
 
 **Concepts**
 
