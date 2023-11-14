@@ -14,19 +14,6 @@ This project learn to facilitate and organizing **classes into package**, develo
 |Tutorial about Package      |    ([What is a package](https://www.youtube.com/watch?v=Bua6LQO2vQ8))   |
 
 
-
-
-
-
-
-
-**Resource**
-
-
-
-
-
-
 **Problem**
 
 Create own structure to organize your project using `package`.
