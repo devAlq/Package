@@ -39,20 +39,17 @@ public class Main {
 
 **Problem**
 
-organizing classes into packages
-
+Create own structure to organize your project using `package`.
 
 
 **Implementation**
 
-1. Create a package called “practice.studentmanagement" to organize your classes.
-2. Create a class called "Student" within the package, with attributes like name, id number, age, and grade. Include 
+1. Create a package to organize your classes.
+2. Create `Student` class within the package, with attributes like name, id number, age, and grade. Include 
    appropriate getters and setters.
 3. Create a class called "StudentManagementSystem" within the package, which serves as the main entry point for the system.
 4. Implement methods in the "StudentManagementSystem" class to add a new student, remove a student, and search for a student by id number.
-5. Include error handling to handle cases such as duplicate id numbers or non-existent students.
 6. Implement a method to calculate the average grade of all the students in the system.
-7. Create a separate "Main" class outside the package to demonstrate and test the functionality of the student management system.
 
 ```Java
 
