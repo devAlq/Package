@@ -6,24 +6,29 @@
 
 `Packages` are divided into **two categories**:
 
- - Built-in Packages (packages from the Java API).
+ - `Built-in Packages` (packages from the Java API).
    * The **Java API** is a library of prewritten classes, that are free to use, included in the Java Development Environment.
    * To use a **class or a package from the library**, you need to use the `import`
- - User-defined Packages (create your own packages).
+ - `User-defined Packages` (create your own packages).
+   * To create your own package, you need to understand that Java uses a file system directory to store them. **Just like folders on your computer**.
 
 ## Example
+* Built-in Packages
 
 ```java
-package com.example.myapp;
 
-import com.example.utilities.StringUtils;
+import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
-        String text = "Hello, World!";
-        String reversedText = StringUtils.reverse(text);
-        System.out.println(reversedText);
-    }
+class MyClass {
+  public static void main(String[] args) {
+    Scanner myObj = new Scanner(System.in);
+    System.out.println("Enter username");
+  }
 }
 ```
+* User-defined Packages
+  
+  ```java
+  
+
 
