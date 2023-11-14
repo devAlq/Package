@@ -36,6 +36,7 @@ package called com.example.myapp. Within this package, we have a class named M
 6. Implement a method to calculate the average grade of all the students in the system.
 7. Create a separate "Main" class outside the package to demonstrate and test the functionality of the student management system.
 
+
 **Implementation**
 
 
