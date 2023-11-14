@@ -25,7 +25,7 @@ Create own structure to organize your project using `package`.
 2. Create `Student` class within the package, with attributes like name, id number, age, and grade. Include 
    appropriate getters and setters.
 3. Create "StudentManagementSystem" class, which serves as the main entry point for the system.
-4. Implement methods in the "StudentManagementSystem" class to add a new student, remove a student, and search for a student by id number.
+4. Implement methods to add and remove a student.
 6. Implement a method to calculate the average grade of all the students in the system.
 
 
