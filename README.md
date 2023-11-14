@@ -26,12 +26,22 @@ public class Main {
 }
 ```
 
+
+
+
+
 **Resource**
+
+
+
+
 
 
 **Problem**
 
-organizing classes into packages.
+organizing classes into packages
+
+
 
 **Implementation**
 
