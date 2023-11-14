@@ -1,5 +1,7 @@
 #  What is a Package
 
+`Package` is a **Set of classes and interfaces grouped together.**
+
 ## Concept
 
 `Package` is a way to **organize and group** related classes, interfaces, and other components together. Packages provide a mechanism for managing the namespace and access control of Java classes and help **avoid naming conflicts** between classes with the same name.
