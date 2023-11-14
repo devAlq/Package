@@ -1,4 +1,4 @@
-# Package / oop Project 01 
+#  High Level Language Project 01 
 
 
 **Objectives**
@@ -6,7 +6,6 @@
 This project aims to facilitate and organizing **classes into packages**, developing distinct classes for entities and system functionality, and incorporating methods to **execute operations** on student objects. Additionally, it offers a chance to enhance skills in **error handling** and **fundamental calculations**.
 
 **Concepts**
-
 `Package` is a way to **organize and group** related classes, interfaces, and other components together. Packages provide a mechanism for managing the namespace and access control of Java classes and help **avoid naming conflicts** between classes with the same name.
 
 
@@ -23,7 +22,7 @@ public class Main {
     }
 }
 ```
-package called com.example.myapp. Within this package, we have a class named Main. The Main class imports a utility class StringUtils from another package, com.example.utilities, to perform a string reversal operation.
+**Resource**
 
 **Problem**
 
