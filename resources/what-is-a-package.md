@@ -4,8 +4,12 @@
 
 `Package` is a way to **organize and group** related classes, interfaces, and other components together. Packages provide a mechanism for managing the namespace and access control of Java classes and help **avoid naming conflicts** between classes with the same name.
 
+`Packages` are divided into **two categories**:
 
-
+ - Built-in Packages (packages from the Java API).
+   * The **Java API** is a library of prewritten classes, that are free to use, included in the Java Development Environment.
+   * To use a **class or a package from the library**, you need to use the `import`
+ - User-defined Packages (create your own packages).
 
 ## Example
 
