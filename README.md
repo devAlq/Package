@@ -43,6 +43,7 @@ public class Main {
 
         Student student3 = new Student("Noura", 3, 19, 78.9);
         sms.addStudent(student3);
-
+         }
+}
 ```
 
