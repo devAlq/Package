@@ -3,8 +3,7 @@
 
 **Objectives**
 
-This project learn to facilitate and organizing **classes into package**, developing distinct classes for entities and system functionality, and incorporating methods to
-**execute operations** on student objects.
+In this project we will learn how to organize **classes into package**. And develop distinct classes for entities and system functionalities.
 
 **Concepts**
 
@@ -16,14 +15,13 @@ This project learn to facilitate and organizing **classes into package**, develo
 
 **Problem**
 
-Create own structure to organize your project using `package`.
+Create your own structure to organize the project using `package` concept.
 
 
 **Implementation**
 
 1. Create a package to organize your classes.
-2. Create `Student` class within the package, with attributes like name, id number, age, and grade. Include 
-   appropriate getters and setters.
+2. Create `Student` class within the package, with attributes name, id number, age, and grade.
 3. Create "StudentManagementSystem" class, which serves as the main entry point for the system.
 4. Implement methods to add and remove a student.
 6. Implement a method to calculate the average grade of all the students in the system.
