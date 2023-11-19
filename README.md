@@ -1,7 +1,7 @@
 # Package 
 
 
-**Objectives**
+**Objective**
 
 In this project we will learn how to organize **classes into package**. And develop distinct classes for entities and system functionalities.
 
